@@ -2,25 +2,25 @@
 
 @media (max-width: 575px) {
   .time {
-    font-size: 2.2rem;
-    padding: 1rem 3rem;
+    font-size: 2rem;
+    padding: 1rem 2rem;
   }
 
   span.pm {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
   }
 }
 
 /* Small devices sm (landscape phones, 576px and up)*/
 
 @media (min-width: 576px) and (max-width: 767px) {
-  .time {
-    font-size: 2.2rem;
-    padding: 1rem 3rem;
+ .time {
+    font-size: 2rem;
+    padding: 1rem 2rem;
   }
 
   span.pm {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
   }
 }
 
