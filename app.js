@@ -25,13 +25,13 @@ function showTime() {
   if (hour > 12) {
   }
 
-  if (hour < 12) {
+  if (hour < 10) {
     hour = "0" + hour;
   }
-  if (minute < 12) {
+  if (minute < 10) {
     minute = "0" + minute;
   }
-  if (seconds < 12) {
+  if (seconds < 10) {
     seconds = "0" + seconds;
   }
 
